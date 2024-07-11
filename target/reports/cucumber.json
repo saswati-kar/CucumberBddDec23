@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-07-08T03:46:57.046Z",
+        "start_timestamp": "2024-07-11T14:17:39.642Z",
         "line": 20,
         "name": "User should be able to login with valid credentials",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8400072000,
+              "duration": 3916244800,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 1035193400,
+              "duration": 141364900,
               "status": "passed"
             },
             "line": 6,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 493255500,
+              "duration": 77242900,
               "status": "passed"
             },
             "line": 7,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 9122507200,
+              "duration": 9093235900,
               "status": "passed"
             },
             "line": 8,
@@ -73,7 +73,6 @@
           },
           {
             "result": {
-              "duration": 20871400,
               "status": "passed"
             },
             "line": 9,
@@ -85,7 +84,7 @@
           },
           {
             "result": {
-              "duration": 2199190400,
+              "duration": 2041749700,
               "status": "passed"
             },
             "line": 10,
@@ -97,7 +96,7 @@
           },
           {
             "result": {
-              "duration": 117900400,
+              "duration": 37420900,
               "status": "passed"
             },
             "line": 11,
@@ -109,15 +108,15 @@
           },
           {
             "result": {
-              "duration": 315596800,
+              "duration": 277982700,
               "status": "passed"
             },
             "line": 12,
-            "name": "User enters Account Name as \"bbb\"",
+            "name": "User enters Account Name as \"sk\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"bbb\"",
+                  "val": "\"sk\"",
                   "offset": 28
                 }
               ],
@@ -127,15 +126,15 @@
           },
           {
             "result": {
-              "duration": 399075200,
+              "duration": 54435600,
               "status": "passed"
             },
             "line": 13,
-            "name": "User enters Initial Balance as \"111\"",
+            "name": "User enters Initial Balance as \"101\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"111\"",
+                  "val": "\"101\"",
                   "offset": 31
                 }
               ],
@@ -145,15 +144,15 @@
           },
           {
             "result": {
-              "duration": 250628600,
+              "duration": 66591900,
               "status": "passed"
             },
             "line": 14,
-            "name": "User enters Account Number as \"111\"",
+            "name": "User enters Account Number as \"101\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"111\"",
+                  "val": "\"101\"",
                   "offset": 30
                 }
               ],
@@ -163,7 +162,7 @@
           },
           {
             "result": {
-              "duration": 151194100,
+              "duration": 65099200,
               "status": "passed"
             },
             "line": 15,
@@ -175,7 +174,7 @@
           },
           {
             "result": {
-              "duration": 925159600,
+              "duration": 1217683500,
               "status": "passed"
             },
             "line": 16,

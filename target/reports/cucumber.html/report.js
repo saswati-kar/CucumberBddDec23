@@ -75,9 +75,9 @@ formatter.examples({
       "cells": [
         "demo@codefios.com",
         "abc123",
-        "bbb",
-        "111",
-        "111"
+        "sk",
+        "101",
+        "101"
       ]
     }
   ]
@@ -158,7 +158,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "User enters Account Name as \"bbb\"",
+  "name": "User enters Account Name as \"sk\"",
   "keyword": "When "
 });
 formatter.match({
@@ -168,7 +168,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "User enters Initial Balance as \"111\"",
+  "name": "User enters Initial Balance as \"101\"",
   "keyword": "And "
 });
 formatter.match({
@@ -178,7 +178,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "User enters Account Number as \"111\"",
+  "name": "User enters Account Number as \"101\"",
   "keyword": "And "
 });
 formatter.match({

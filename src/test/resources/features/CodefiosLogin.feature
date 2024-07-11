@@ -17,5 +17,5 @@ Then  New account is saved successfully
 
  Examples:
  |username         |password|accountName|initialBalance|accountNumber|
- |demo@codefios.com|abc123  |bbb        |111           |111          |
+ |demo@codefios.com|abc123  |sk         |101           |101          |
  
